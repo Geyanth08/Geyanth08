@@ -5,7 +5,6 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://fb.com/ch geyanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ch geyanth" height="30" width="40" /></a>
 <a href="https://instagram.com/geyanth_padmakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="geyanth_padmakar" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/geyanth73054" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="geyanth73054" height="30" width="40" /></a>
 </p>
